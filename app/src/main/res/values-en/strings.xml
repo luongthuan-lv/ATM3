@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="hint">Enter the ATM CARD NUMBER</string>
+    <string name="title">Receiver\'s ATM card number</string>
+    <string name="textbtn">Change Language</string>
+    <string name="test">Test</string>
+</resources>
